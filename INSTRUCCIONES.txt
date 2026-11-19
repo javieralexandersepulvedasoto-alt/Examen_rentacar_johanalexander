@@ -1,0 +1,11 @@
+PROYECTO RENTACAR EXPRESS - JOHAN ALEXANDER
+
+1. Extrae todo el contenido del ZIP a una carpeta.
+2. Abre Examen_RentaCar_JohanAlexander.sln con Visual Studio 2022.
+3. Espera a que termine la restauración de componentes.
+4. En el menú Compilar, selecciona Compilar solución.
+5. Presiona F5 para ejecutar el programa.
+
+Para intentar abrir el diseño visual: en el Explorador de soluciones, haz clic derecho en frmAlquiler.cs y selecciona Ver diseñador.
+
+Nota: el formulario se construye mediante código C#. Se corrigieron los ciclos que impedían al diseñador analizar InitializeComponent. Si Visual Studio muestra otro mensaje del diseñador, envíame una captura para corregir el siguiente elemento que no pueda interpretar.
